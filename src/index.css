@@ -78,7 +78,7 @@ p {
 /* ======== Navbar ======= */
 
 .navbar {
-  background: #650ee6;
+  background: #5101ca;
 }
 
 .navbar-container {
@@ -129,6 +129,10 @@ p {
 
   text-transform: capitalize;
   cursor: pointer;
+}
+
+.clear-btn {
+  background: #1a1a1a;
 }
 
 /* ======== cart container ======= */
