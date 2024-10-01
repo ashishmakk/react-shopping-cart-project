@@ -1,8 +1,13 @@
+import CartContainer from "./CartContainer";
+import "./index.css";
+import Navbar from "./Navbar";
+
 function App() {
   return (
-    <main>
-      <h1>Cart</h1>
-    </main>
+    <>
+      <Navbar />
+      <CartContainer />
+    </>
   );
 }
 
